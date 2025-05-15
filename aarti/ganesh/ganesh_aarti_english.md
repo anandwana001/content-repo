@@ -1,5 +1,5 @@
 <!-- Banner SVG -->
-![Banner](https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/assets/ic_share_rounded.svg)
+<img src="https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/assets/ic_share_rounded.svg"/>
 
 <!-- Share & WhatsApp icons as SVG -->
 [![Share](https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/assets/ic_share_rounded.svg)]()
