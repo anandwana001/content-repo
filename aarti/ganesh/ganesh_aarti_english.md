@@ -9,7 +9,7 @@
 
 Find the complete Ganesh Aarti in English. Sing this sacred prayer to honor Lord Ganesha and seek his divine blessings for a successful and happy life.
 
----
+<br>
 
 ## Ganesh Aarti Lyrics
 
@@ -19,7 +19,7 @@ Lord Ganesh is the first god to be worshipped. People pray to Bappa for success,
 2. **Sukhkarta Dukhharta**  
 3. **Shendur Laal Chadhayo**
 
----
+<br>
 
 ## Jai Ganesh Jai Ganesh, Jai Ganesh Deva
 
@@ -45,8 +45,8 @@ Deenan Ki Laaj Rakho, Shambhu Sutkaari, Kaamana Ko Poorn Karo, Jaaun Balihari.
 
 Jai Ganesh Jai Ganesh, Jai Ganesh Deva, Mata Jaaki Parvati, Pita Mahadeva.
 
+<br>
 
----
 
 ## Sukhkarta Dukhharta Aarti
 
@@ -73,8 +73,8 @@ Darshanmaatre Manakamana Purti.
 
 Jai Dev Jai Dev.
 
+<br>
 
----
 
 ## Shendur Laal Chadhayo Aarti
 
@@ -117,7 +117,7 @@ Gosavi Nandan, Nishidin Gun Gaave.
 Jai Jai Shri Ganraj, Vidya Sukhdata,
 Dhanya Tumhara Darshan, Mera Man Ramta.
 
-
+<br>
 
 ---
 
