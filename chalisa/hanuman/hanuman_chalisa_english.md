@@ -92,6 +92,6 @@ Ram Lakhan Sita Sahit, Hriday Basahu Sur Bhoop.
 
 ---
 
-*Published by SattvikMitr · May 5, 2025*
+*Published by DailyMandir · May 5, 2025*
 
 
