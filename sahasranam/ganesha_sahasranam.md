@@ -85,4 +85,4 @@
 
 ---
 
-*Published by SattvikMitr · May 15, 2025*
+*Published by DailyMandir · May 15, 2025*
