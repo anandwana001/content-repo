@@ -8,85 +8,206 @@
 
 <br>
 
-# Hanuman Chalisa in English
+# हनुमान चालीसा किसने लिखी?
 
-*Seeking Lord Hanuman’s blessings? Read Hanuman Chalisa in English—40 powerful verses that glorify Bajrang Bali’s divine strength and devotion!*
+हनुमान चालीसा गोस्वामी तुलसीदास जी ने लिखी, जिसके अंदर कुल 40 चौपाइयां हैं। हनुमान चालीसा अवधी भाषा में लिखी गई है, जिसकी रचना 16वीं शताब्दी में कि गई थी।
+
+# हनुमान चालीसा पढ़ने से क्या होता है?
+
+- नकारात्मक उर्जा दूर होती है
+- संकट में बचाव होता है
+- शरीर में सकारात्मक उर्जा का संचार होता है
+- भय, चिंता, भूत-प्रेत बाधा और ग्रह दोषों से मुक्ति मिलती है
+- घर-परिवार में सुख-शांति एवं आपका भाग्य मजबूत बनता है
+
+
+# हनुमान चालीसा कब और कितनी बार पढ़नी चाहिए?
+
+वैसे तो हनुमान चालीसा का पाठ कभी भी किया जा सकता है, मगर मंगलवार और शनिवार का दिन सबसे उत्तम माना जाता है, क्योंकि यह दिन बजरंगबली को समर्पित होता है। आप ब्रह्म मुहूर्त सुबह 4 से 6 बजे या फिर शाम के समय हनुमान चालीसा का पाठ कर सकते हैं।
+
+संकट के समय भी हनुमान चालीसा पढ़ने से काफी फायदा होता है। शास्त्रों के अनुसार हनुमान चालीसा का पाठ दिन में 100 बार करना अत्यंत शुभ माना गया है। मगर जिनलोगों के पास समय की कमी हो, तो कम से कम 7, 11 या 21 बार पाठ करना भी लाभकारी होता है, ऐसा करने से हनुमान जी की असीम कृपा प्राप्त होती है।
+
 
 <br>
 
-## Hanuman Chalisa Doha
+# हनुमान चालीसा
 
 
 
-Shri Guru Charan Saroj Raj, Nij Manu Mukur Sudhaari.
-Baranau Raghubar Vimal Jas, Jo Daayak Phal Chari.
 
-Buddhiheen Tanu Jaankai, Sumiron Pavan-Kumar.
-Bal Buddhi Vidya Dehu Mohin, Harhu Kalesh Vikaari.
+श्री गुरु चरण सरोज रज, निज मनु मुकुर सुधारि।
 
+बरनउं रघुबर विमल जसु, जो दायकु फल चारि॥
 
-## Hanuman Chalisa Chaupai 
+बुद्धिहीन तनु जानिकै, सुमिरौं पवन-कुमार।
 
+बल बुद्धि विद्या देहु मोहिं, हरहु कलेश विकार॥
 
+हनुमान चालीसा चौपाई
+जय हनुमान ज्ञान गुण सागर।
 
-Jai Hanuman Gyaan Gun Saagar, Jai Kapis Tihun Lok Ujaagar.
-Ram Doot Atulit Bal Dhaama, Anjani-Putra Pavan-Sut Naama.
-Mahabeer Vikram Bajrangi, Kumati Nivaar Sumati Ke Sangi.
-Kanchan Varn Biraj Subesa, Kanan Kundal Kunchit Kesa.
+जय कपीस तिहुं लोक उजागर॥
 
-Haath Vajra Au Dhwaja Birajai, Kaanhe Moonj Janeu Sajaai.
-Shankar Suvan Kesari Nandan, Tej Pratap Maha Jag Vandan.
-Vidyaavaan Guni Ati Chatur, Ram Kaaj Karibe Ko Aatur.
-Prabhu Charitra Sunibe Ko Rasiya, Ram Lakhan Sita Man Basiya.
+राम दूत अतुलित बल धामा।
 
-Sookshm Roop Dhari Siyaahi Dikhawa, Vikat Roop Dhari Lank Jaraawa.
-Bheem Roop Dhari Asur Sanhaare, Ramchandra Ke Kaaj Sanwaare.
-Laay Sanjeevani Lakhana Jiyaaye, Shri Raghubeer Harsh Ur Laye.
-Raghupati Keenee Bahut Badaai, Tum Mam Priya Bharatahi Sam Bhai.
+अंजनि-पुत्र पवनसुत नामा॥
 
-Sahas Badan Tumharo Yash Gaave, As Kahi Shri-Pati Kanth Lagaaave.
-Sanakaadik Brahmaadi Muneesa, Narad Saraswati Sahit Ahisa.
-Yam Kuber Dikpaal Jahan Te, Kavi Kobid Kahin Sake Kahan Te.
-Tum Upkaar Sugreevahin Keenha, Ram Milaye Raaj Pad Deenha.
+महावीर विक्रम बजरंगी।
 
-Tumharo Mantra Vibhishan Maana, Lankeshwar Bhaye Sab Jag Jaana.
-Jug Sahastra Yojan Par Bhanu, Leelyo Taahi Madhur Phal Jaana.
-Prabhu Mudrika Meli Mukh Maahi, Jaladhi Laanghi Gaye Acharaj Naahi.
-Durgam Kaaj Jagat Ke Jete, Sugam Anugrah Tumhare Tete.
+कुमति निवार सुमति के संगी॥
 
-Ram Dware Tum Rakhwaare, Hot Na Aajna Binu Paisare.
-Sab Sukh Lahe Tumhaari Sarna, Tum Rakshak Kahu Ko Darna.
-Aapan Tej Samhaaro Aapai, Tino Lok Haank Te Kaampai.
-Bhoot Pishach Nikat Nahi Aave, Mahaveer Jab Naam Sunave.
+कंचन बरन बिराज सुबेसा।
 
-Naasai Rog Hare Sab Peera, Japat Nirantar Hanumat Beera.
-Sankat Te Hanuman Chudhaave, Man, Karm, Vachan Dhyaan Jo Laave.
-Sab Par Ram Tapasvi Raja, Tinke Kaaj Sakal Tum Saaja.
-Aur Manorath Jo Koi Laave, Sohi Amit Jeevan Phal Paave.
+कानन कुण्डल कुंचित केसा॥
 
-Chaaron Yug Parataap Tumhaara, Hai Prasiddh Jagat Ujiyaara.
-Saadhu Sant Ke Tum Rakhwaare, Asur Nikandan Ram Dulaare.
-Asht Siddhi Nav Nidhi Ke Daata, As Var Deen Jaanaki Maata.
-Ram Rasayan Tumhare Paasa, Sadaa Raho Raghupati Ke Daasa.
+हाथ वज्र औ ध्वजा बिराजै।
 
-Tumhare Bhajan Ram Ko Paave, Janam Janam Ke Dukh Bisraave.
-Antkaal Raghubar Pur Jaai, Jahan Janm Haribhakt Kahai.
-Aur Devta Chit Na Dharai, Hanumat Sei Sarv Sukh Karai.
-Sankat Katai Mite Sab Peera, Jo Sumirai Hanumat Balbeera.
+काँधे मूँज जनेऊ साजै॥
 
-Jai Jai Jai Hanuman Gosai, Kripa Karahu Gurudev Ki Naai.
-Jo Shat Baar Paath Kar Koi, Chhootahi Bandhi Maha Sukh Hoi.
-Jo Yah Padhe Hanuman Chalisa, Hoy Siddhi Saakhi Gaurisa.
-Tulsidas Sadaa Hari Chera, Keejai Naath Hriday Mah Dera.
+शंकर सुवन केसरीनन्दन।
 
-<br>
+तेज प्रताप महा जग वन्दन॥
 
-## Repeat
+विद्यावान गुणी अति चातुर।
 
+राम काज करिबे को आतुर॥
 
+प्रभु चरित्र सुनिबे को रसिया।
 
-Pawan Tanay Sankat Haran, Mangal Moorti Roop.
-Ram Lakhan Sita Sahit, Hriday Basahu Sur Bhoop.
+राम लखन सीता मन बसिया॥
+
+सूक्ष्म रूप धरि सियहिं दिखावा।
+
+विकट रुप धरि लंक जरावा॥
+
+भीम रूप धरि असुर संहारे।
+
+रामचन्द्र के काज संवारे॥
+
+लाय सजीवन लखन जियाये।
+
+श्रीरघुबीर हरषि उर लाये॥
+
+रघुपति कीन्ही बहुत बड़ाई।
+
+तुम मम प्रिय भरतहि सम भाई॥
+
+सहस बदन तुम्हरो यश गावैं।
+
+अस कहि श्रीपति कंठ लगावैं॥
+
+सनकादिक ब्रह्मादि मुनीसा।
+
+नारद सारद सहित अहीसा॥
+
+जम कुबेर दिकपाल जहाँ ते।
+
+कवि कोबिद कहि सके कहाँ ते॥
+
+तुम उपकार सुग्रीवहिं कीन्हा।
+
+राम मिलाय राज पद दीन्हा॥
+
+तुम्हरो मन्त्र विभीषन माना।
+
+लंकेश्वर भये सब जग जाना॥
+
+जुग सहस्त्र जोजन पर भानू।
+
+लील्यो ताहि मधुर फल जानू॥
+
+प्रभु मुद्रिका मेलि मुख माहीं।
+
+जलधि लांघि गए अचरज नाहीं॥
+
+दुर्गम काज जगत के जेते।
+
+सुगम अनुग्रह तुम्हरे तेते॥
+
+राम दुआरे तुम रखवारे।
+
+होत न आज्ञा बिनु पैसारे॥
+
+सब सुख लहै तुम्हारी सरना।
+
+तुम रक्षक काहू को डरना॥
+
+आपन तेज सम्हारो आपै।
+
+तीनों लोक हांक ते कांपै॥
+
+भूत पिशाच निकट नहिं आवै।
+
+महावीर जब नाम सुनावै॥
+
+नासै रोग हरै सब पीरा।
+
+जपत निरंतर हनुमत बीरा॥
+
+संकट ते हनुमान छुड़ावै।
+
+मन क्रम वचन ध्यान जो लावै॥
+
+सब पर राम तपस्वी राजा।
+
+तिनके काज सकल तुम साजा॥
+
+और मनोरथ जो कोई लावै।
+
+सोइ अमित जीवन फल पावै॥
+
+चारों जुग परताप तुम्हारा।
+
+है परसिद्ध जगत उजियारा॥
+
+साधु सन्त के तुम रखवारे।
+
+असुर निकन्दन राम दुलारे॥
+
+अष्ट सिद्धि नवनिधि के दाता।
+
+अस बर दीन जानकी माता॥
+
+राम रसायन तुम्हरे पासा।
+
+सदा रहो रघुपति के दासा॥
+
+तुम्हरे भजन राम को पावै।
+
+जनम जनम के दुख बिसरावै॥
+
+अंतकाल रघुबर पुर जाई।
+
+जहाँ जन्म हरिभक्त कहाई॥
+
+और देवता चित्त न धरई।
+
+हनुमत सेई सर्व सुख करई॥
+
+संकट कटै मिटै सब पीरा।
+
+जो सुमिरै हनुमत बलबीरा॥
+
+जय जय जय हनुमान गोसाई।
+
+कृपा करहु गुरुदेव की नाई॥
+
+जो शत बार पाठ कर कोई।
+
+छूटहि बंदि महा सुख होई॥
+
+जो यह पढ़ै हनुमान चालीसा।
+
+होय सिद्धि साखी गौरीसा॥
+
+तुलसीदास सदा हरि चेरा।
+
+कीजै नाथ हृदय महँ डेरा॥
+
+हनुमान चालीसा दोहा
+पवनतनय संकट हरन, मंगल मूरति रूप।
+
+राम लखन सीता सहित, हृदय बसहु सुर भूप॥
 
 <br>
 
