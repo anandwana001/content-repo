@@ -8,7 +8,7 @@
 ## 🤝 साझा करें
 
 <a href="https://api.whatsapp.com/send?text=Check%20out%20this%20article%20in%20the%20Daily%20Mandir%20app%3A%20https%3A%2F%2Fwww.dailymandir.com%2Farticles%3FcontentUrl%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252Fanandwana001%252Fcontent-repo%252Frefs%252Fheads%252Fmain%252Faarti%252Fganesh%252Fganesh_aarti_hindi.md%26title%3DGanesh%2520Aarti">
-  <img src="https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/assets/ic_wtsapp_share_rounded.svg" alt="WhatsApp पर साझा करें" width="40"/>
+  <img src="https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/assets/ic_wtsapp_share_rounded.svg" alt="WhatsApp पर साझा करें"/>
 </a>
 
 
@@ -175,7 +175,7 @@
 ## 🤝 साझा करें
 
 <a href="https://api.whatsapp.com/send?text=Check%20out%20this%20article%20in%20the%20Daily%20Mandir%20app%3A%20https%3A%2F%2Fwww.dailymandir.com%2Farticles%3FcontentUrl%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252Fanandwana001%252Fcontent-repo%252Frefs%252Fheads%252Fmain%252Faarti%252Fganesh%252Fganesh_aarti_hindi.md%26title%3DGanesh%2520Aarti">
-  <img src="https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/assets/ic_wtsapp_share_rounded.svg" alt="WhatsApp पर साझा करें" width="40"/>
+  <img src="https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/assets/ic_wtsapp_share_rounded.svg" alt="WhatsApp पर साझा करें"/>
 </a>
 
 **इस पवित्र आरती को अपने मित्रों और परिवार के साथ साझा करें**
