@@ -2,7 +2,7 @@
 ![Banner](https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/mantra/shanidev_mantra_banner.png)
 
 <!-- Share & WhatsApp icons as SVG -->
-<a href="https://api.whatsapp.com/send?text=Check%20out%20this%20article%20in%20the%20Hanuman%20Chalisa%20app%3A%20https%3A%2F%2Fwww.sattvikmitr.com%2Farticles%3FcontentUrl%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252Fanandwana001%252Fcontent-repo%252Frefs%252Fheads%252Fmain%252Faarti%252Fganesh%252Fganesh_aarti_english.md%26title%3DGanesh%2520Aarti">
+<a href="https://api.whatsapp.com/send?text=Check%20out%20this%20article%20in%20the%20Daily%20Mandir%20app%3A%20https%3A%2F%2Fwww.dailymandir.com%2Farticles%3FcontentUrl%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252Fanandwana001%252Fcontent-repo%252Frefs%252Fheads%252Fmain%252Fmantra%252Fshani%252Fshani_dev_mantra_hindi.md%26title%3DShani%2520Dev%2520Mantra">
   <img src="https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/assets/ic_wtsapp_share_rounded.svg" alt="WhatsApp"/>
 </a>
 
