@@ -1,33 +1,38 @@
-<!-- Centered Banner -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/chalisa/hanuman/hanuman_chalisa_banner.png" alt="Banner"/>
-</div>
+<!-- Banner SVG -->
+![Banner](https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/chalisa/hanuman/hanuman_chalisa_banner.png)
 
-<!-- Centered Share icon -->
-<div align="center" style="margin-top: 10px;">
-  <a href="https://api.whatsapp.com/send?text=Check%20out%20this%20article%20in%20the%20Daily%20Mandir%20app%3A%20https%3A%2F%2Fwww.dailymandir.com%2Farticles%3FcontentUrl%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252Fanandwana001%252Fcontent-repo%252Frefs%252Fheads%252Fmain%252Fchalisa%252Fhanuman%252Fhanuman_chalisa_english.md%26title%3DHanuman%2520Chalisa">
-    <img src="https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/assets/ic_wtsapp_share_rounded.svg" alt="WhatsApp"/>
-  </a>
-</div>
+<!-- Share & WhatsApp icons as SVG -->
+<a href="https://api.whatsapp.com/send?text=Check%20out%20this%20article%20in%20the%20Daily%20Mandir%20app%3A%20https%3A%2F%2Fwww.dailymandir.com%2Farticles%3FcontentUrl%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252Fanandwana001%252Fcontent-repo%252Frefs%252Fheads%252Fmain%252Fchalisa%252Fhanuman%252Fhanuman_chalisa_english.md%26title%3DHanuman%2520Chalisa">
+  <img src="https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/assets/ic_wtsapp_share_rounded.svg" alt="WhatsApp"/>
+</a>
+
 
 <br>
 
-<!-- Centered Title -->
-<div align="center">
-  <h1>हनुमान चालीसा</h1>
-  <p><em>॥ श्रीहनूमते नमः ॥</em></p>
-</div>
+
+# हनुमान चालीसा 
+
+हनुमान चालीसा एक काव्यात्मक कृति है, जो भगवान हनुमान को समर्पित है। इसके रचयिता गोस्वामी तुलसीदास हैं, जिन्होंने इसे 16वीं शताब्दी में अवधी भाषा में लिखा था। इस कृति में प्रभु राम के परम भक्त हनुमान के गुणों, पराक्रम और निर्मल चरित्र का चालीस चौपाइयों में वर्णन किया गया है।
+
+## पाठ विधि
+
+हनुमान चालीसा का पाठ करने से पहले, श्री हनुमान जी को नमस्कार करें और उनसे आशीर्वाद प्राप्त करें। जय श्री हनुमान चालीसा का पाठ करने से व्यक्ति के सभी संकटो का नाश होता है और हनुमान जी के साथ साथ श्री सीताराम जी के समस्त दरबार की कृपा प्राप्त होती है। अगर किसी इच्छा से पाठ करना है तो आप चालीसा पाठ संकल्प लेकर कर सकते है या बिना संकल्प के भी कर सकते है हनुमान जी से प्रार्थना करके। आप अगर मंगलवार का व्रत भी रहेंगे तो और अच्छा है।
+
+<br>
 
 
 
-### श्रीहनुमानचालीसा
+## श्रीहनुमानचालीसा                                                       
 
-#### [दोहा]
+॥ श्रीहनूमते नमः ॥
+<br>
 
-श्रीगुरु चरन सरोज रज निज मनु मुकुरु सुधारि ।  
-बरनउँ रघुबर बिमल जसु जो दायकु फल चारि ॥  
-बुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार ।  
-बल बुधि बिद्या देहु मोहिं, हरहु कलेस बिकार ॥  
+**[दोहा]**
+
+श्रीगुरु चरन सरोज रज निज मनु मुकुरु सुधारि । <br>
+बरनउँ रघुबर बिमल जसु जो दायकु फल चारि ॥ <br>
+बुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार । <br>
+बल बुधि बिद्या देहु मोहिं, हरहु कलेस बिकार ॥ <br>
 
 **[चौपाई]**
 
