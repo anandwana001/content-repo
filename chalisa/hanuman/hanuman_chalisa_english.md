@@ -1,28 +1,36 @@
-<!-- Banner SVG -->
-![Banner](https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/chalisa/hanuman/hanuman_chalisa_banner.png)
+<!-- Centered Banner -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/chalisa/hanuman/hanuman_chalisa_banner.png" alt="Banner"/>
+</div>
 
-<!-- Share & WhatsApp icons as SVG -->
-<a href="https://api.whatsapp.com/send?text=Check%20out%20this%20article%20in%20the%20Daily%20Mandir%20app%3A%20https%3A%2F%2Fwww.dailymandir.com%2Farticles%3FcontentUrl%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252Fanandwana001%252Fcontent-repo%252Frefs%252Fheads%252Fmain%252Fchalisa%252Fhanuman%252Fhanuman_chalisa_english.md%26title%3DHanuman%2520Chalisa">
-  <img src="https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/assets/ic_wtsapp_share_rounded.svg" alt="WhatsApp"/>
-</a>
-
+<!-- Centered Share icon -->
+<div align="center" style="margin-top: 10px;">
+  <a href="https://api.whatsapp.com/send?text=Check%20out%20this%20article%20in%20the%20Daily%20Mandir%20app%3A%20https%3A%2F%2Fwww.dailymandir.com%2Farticles%3FcontentUrl%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252Fanandwana001%252Fcontent-repo%252Frefs%252Fheads%252Fmain%252Fchalisa%252Fhanuman%252Fhanuman_chalisa_english.md%26title%3DHanuman%2520Chalisa">
+    <img src="https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/assets/ic_wtsapp_share_rounded.svg" alt="WhatsApp"/>
+  </a>
+</div>
 
 <br>
 
-# हनुमान चालीसा                                                                                                                                                                                                                              
+<!-- Centered Title -->
+<div align="center">
+  <h1>हनुमान चालीसा</h1>
+  <p><em>॥ श्रीहनूमते नमः ॥</em></p>
+</div>
 
-॥ श्रीहनूमते नमः ॥                                                                                                                                                                      
 
-श्रीहनुमानचालीसा                                                       
 
-[दोहा]
+### श्रीहनुमानचालीसा
 
-श्रीगुरु चरन सरोज रज निज मनु मुकुरु सुधारि । <br>
-बरनउँ रघुबर बिमल जसु जो दायकु फल चारि ॥ <br>
-बुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार । <br>
-बल बुधि बिद्या देहु मोहिं, हरहु कलेस बिकार ॥ <br>
+#### [दोहा]
+
+श्रीगुरु चरन सरोज रज निज मनु मुकुरु सुधारि ।  
+बरनउँ रघुबर बिमल जसु जो दायकु फल चारि ॥  
+बुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार ।  
+बल बुधि बिद्या देहु मोहिं, हरहु कलेस बिकार ॥  
 
 **[चौपाई]**
+
 
 जय हनुमान ज्ञान गुन सागर । <br>
 जय कपीस तिहुँ लोक उजागर ॥ <br>
