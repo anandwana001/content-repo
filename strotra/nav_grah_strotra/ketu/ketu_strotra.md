@@ -1,5 +1,5 @@
 <!-- Banner SVG -->
-![Banner](https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/chalisa/hanuman/hanuman_chalisa_banner.png)
+![Banner](https://raw.githubusercontent.com/anandwana001/content-repo/refs/heads/main/strotra/nav_grah_strotra/ketu/ketu_grah_strotra_banner.png)
 
 <!-- Share & WhatsApp icons as SVG -->
 <a href="https://api.whatsapp.com/send?text=Check%20out%20this%20article%20in%20the%20Daily%20Mandir%20app%3A%20https%3A%2F%2Fwww.dailymandir.com%2Farticles%3FcontentUrl%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252Fanandwana001%252Fcontent-repo%252Frefs%252Fheads%252Fmain%252Fstrotra%252Fnav_grah_strotra%252Fketu%252Fketu_strotra.md%26title%3DKetu%2520Strotra">
