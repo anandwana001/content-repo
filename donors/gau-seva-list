@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Rajesh Kumar",
+    "location": "Mumbai, Maharashtra",
+    "amount": 101,
+    "date": "2024-01-15"
+  },
+  {
+    "id": "2",
+    "name": "Priya Sharma",
+    "location": "Delhi, NCR",
+    "amount": 501,
+    "date": "2024-01-14"
+  },
+  {
+    "id": "3",
+    "name": "Amit Patel",
+    "location": "Ahmedabad, Gujarat",
+    "amount": 201,
+    "date": "2024-01-13"
+  },
+  {
+    "id": "4",
+    "name": "Sunita Devi",
+    "location": "Jaipur, Rajasthan",
+    "amount": 1001,
+    "date": "2024-01-12"
+  },
+  {
+    "id": "5",
+    "name": "Vikram Singh",
+    "location": "Pune, Maharashtra",
+    "amount": 51,
+    "date": "2024-01-11"
+  }
+]
